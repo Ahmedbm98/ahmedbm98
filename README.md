@@ -1,8 +1,9 @@
-## 🚀 Front-end & UI web developer | WordPress UI Designer 
+### **🚀 Front-end & UI web developer | WordPress UI Designer**
 ## 📄 About me
 Hi 👋 I'm Ahmed, and I specialize in building high-quality, responsive, and user-friendly websites.  
 With over a year of experience, I convert designs into clean, pixel-perfect code and optimize websites for performance and accessibility.
 ## ✨ What I Do:
+
 ✔️ Convert Figma, XD, and PSD designs to fully responsive websites  
 ✔️ Optimize front-end performance for faster load times  
 ✔️ Ensure cross-browser compatibility and accessibility  
